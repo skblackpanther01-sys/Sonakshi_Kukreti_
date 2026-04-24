@@ -5,8 +5,9 @@ This project analyzes OYO hotel data to uncover insights related to pricing, rat
 
 ## 🛠 Tools Used
 - Power BI
+- Microsoft Azure
 - Advanced Excel
-- Python (Google Colab)
+- Python 
 
 ## 📁 Files Included
 - Dataset (Excel)
